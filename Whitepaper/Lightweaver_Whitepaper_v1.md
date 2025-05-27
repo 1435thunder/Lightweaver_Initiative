@@ -58,6 +58,7 @@ This initiative addresses:
 
 ### 3.3 Freshwater Generation
 - Target ocean surfaces for clean desalination via evaporation
+- Heat seawater boilers - power electric turbines 
 - Capture vapor with large condensation fields
 - Supply drinking water to deserts and drought zones
 
