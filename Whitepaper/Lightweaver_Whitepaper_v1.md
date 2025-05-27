@@ -157,5 +157,4 @@ The power is free.
 The future is open.
 
 > **Let there be light.**
-# Lightweaver Whitepaper v1
 
