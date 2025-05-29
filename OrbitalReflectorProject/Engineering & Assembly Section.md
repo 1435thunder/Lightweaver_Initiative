@@ -1,7 +1,7 @@
 '''
 📄 PHASE 1: WHITEPAPER SECTION — MANUFACTURING & ORBITAL ASSEMBLY
 
-This first technical section will anchor your idea into engineering reality so anyone—from NASA to garage tinkerers—can visualize, improve, and replicate the vision.
+This first technical section will anchor the idea into engineering reality so anyone—from NASA to garage tinkerers—can visualize, improve, and replicate the vision.
 
 🧱 SECTION TITLE:
 
