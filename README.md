@@ -42,7 +42,3 @@ Our guiding principle is simple:
 > **"If you have light, you have life."**
 
 ---
-
-## 📂 Repository Structure
-
-# Lightweaver_Initiative
